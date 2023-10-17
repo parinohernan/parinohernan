@@ -1,4 +1,8 @@
 ### Hi there 👋
+Soy Hernan Paino, enticiasta programador fullstack.
+
+Estoy en busqueda de oportunidades como desarrollador JS fulstack.
+
 
 <!--
 **parinohernan/parinohernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
