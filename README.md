@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hernan Parino</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Ge3kHub - Ecomerce geek**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **English, WebSocket, Elements of IA**
+- 🌱 I’m currently learning **English, ReactNative, WebSocket**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-19eohvft8-parinohernan.vercel.app/](https://portfolio-19eohvft8-parinohernan.vercel.app/)
 
