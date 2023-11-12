@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-19eohvft8-parinohernan.vercel.app/](https://portfolio-19eohvft8-parinohernan.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, NodeJS**
+- 💬 Ask me about **React, React Native, JavaScript, NodeJS**
 
 - 📫 How to reach me **parinohernan@gmail.com**
 
