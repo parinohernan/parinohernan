@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **English, ReactNative, WebSocket**
 
-- 👨‍💻 All of my projects are available at [https://hernanparino.netlify.app/](https://hernanparino.netlify.app/](https://portfolio.janus314.com.ar/projects)
+- 👨‍💻 All of my projects are available at (https://hernanparino.netlify.app/](https://portfolio.janus314.com.ar/projects)
 
 - 💬 Ask me about **React, React Native, JavaScript, NodeJS**
 
